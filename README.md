@@ -16,4 +16,8 @@
 	git checkout branch: tao nhanh
 	git merge :ghep nhanh
 	git checkout -d <branch>
+
+	git reset --soft <to_commit>
+	git reset --mixed 
+	git reset --herd
  -->
