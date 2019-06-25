@@ -19,5 +19,11 @@
 
 	git reset --soft <to_commit>
 	git reset --mixed 
-	git reset --herd
+	git reset --hard
+
+	git revrt <commit>: quay lai trang thai luc truoc
+	gitignore: bo qua 1 so file ma ko muon commit
+
+	github
+	git remote add origin url
  -->
