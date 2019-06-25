@@ -9,6 +9,6 @@
 	staging area
 	git repository
 
-	git checkout
-	git reset
+	git checkout: --xoa noi dung vua thay doi chua commit
+	git reset: tu repository xuog stagin area
  -->
