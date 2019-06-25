@@ -26,4 +26,6 @@
 
 	github
 	git remote add origin url
+
+	git config --global credential.helper  "cache --timeout=1800"
  -->
